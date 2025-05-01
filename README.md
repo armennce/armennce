@@ -1,16 +1,18 @@
-## Hey I'm Armennce 👋🏼
+## Hey I'm armennce 👋🏼
 
-🧠 Computer science at EFREI Paris 
-🤓 Currently working on 3 projects : 
-  - a cooking app (like Marmiton Premium)
-  - animation project
-  - 
-🧚🏽‍♀️ I have many intrests : 
-   - animation 
-    - storytelling 
+🧠 Computer science at EFREI Paris<br
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>
+  - my cooking app (kind of a Marmiton Premium)<br>
+  - animation project<br>
+  - website of my future<br>
+🧚🏽‍♀️ I have many interests :<br>
+  - animation<br>
+  - storytelling<br>
+  - cooking<br>
+  - crocheting<br>
 
 
 ## 🌐 Socials:
