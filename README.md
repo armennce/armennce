@@ -1,7 +1,7 @@
 ## Hey I'm armennce 💫
 
 🧠 Computer science at EFREI Paris<br>
-🔭 I’m currently working on<br>
+🔭 I’m currently working on :<br>
   - my cooking app (kind of a Marmiton Premium)<br>
   - animation project<br>
   - website of my future brand<br>
