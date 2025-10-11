@@ -2,10 +2,10 @@
 
 🧠 Bachelor student in Computer Science at EFREI Paris<br>
 
-⭐️ many passions : 
+⭐️ lot of intersts in : 
   - cooking
   - storytelling
-  - Neurosciences
+  - neurosciences
   - reading 
     
 🔭 currently working on :<br>
