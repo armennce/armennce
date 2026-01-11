@@ -3,6 +3,7 @@
 🧠 Bachelor student in Computer Science at EFREI Paris<br>
 
 ⭐️ lot of intersts in : 
+  - AI/ ML
   - cooking
   - storytelling
   - neurosciences
